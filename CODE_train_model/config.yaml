@@ -1,0 +1,20 @@
+
+path: /home/artemis/Documents/University/masters/Semester 4/test_coding/CODE_train_model/climbing_dataset/dataset2  # dataset root dir
+train: images  # train images (relative to 'path')
+val: images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: cluster1
+  1: cluster2
+  2: cluster3
+  3: cluster4
+  4: cluster5
+  5: cluster6
+  6: cluster7
+  7: cluster8
+  8: cluster9
+  9: cluster10
+  10: cluster11
+  11: cluster12
+  12: cluster13
